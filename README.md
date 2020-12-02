@@ -25,3 +25,5 @@
 <br><br>
 #### Stats 👨‍💻
 ![Raju's github stats](https://github-readme-stats.vercel.app/api?username=Rajulearner&show_icons=true&theme=radical)
+
+<a href="https://www.linkedin.com/in/raju-gujjalapati-470a88171" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hamed-zitoun" height="30" width="30" /></a>
