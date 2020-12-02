@@ -1,5 +1,4 @@
-### Hii, Welcome To My Profile 🙈
-
+<h1 align="center">Hi 👋, I'm Raju Chowdary</h1>
 
 
 
