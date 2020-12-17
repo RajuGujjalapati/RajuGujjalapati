@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on ...Python, Flask, MachineLearning
-- 🌱 I’m currently learning ...Django, MachineLearning, DeepLearning, AWS, .......
+- 🌱 I’m currently learning ...Django, MachineLearning, DeepLearning, JS,React Js .......
 - 👯 I’m looking to collaborate on ... OpenSource
 - 🤔 I’m looking for help with ...AWS
 - 💬 Ask me about ...Anything
