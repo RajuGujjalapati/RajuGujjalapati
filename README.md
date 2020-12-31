@@ -7,9 +7,8 @@
 - 🌱 I’m currently learning ...Django, MachineLearning, DeepLearning, JS,React Js .......
 - 👯 I’m looking to collaborate on ... OpenSource
 - 🤔 I’m looking for help with ...AWS
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Connect me on Linkedin](https://www.linkedin.com/in/raju-gujjalapati-470a88171)
-- ⚡ Fun fact: ...One thing I’m very afraid of this [IMAGE](https://chaibisket.com/wp-content/uploads/2015/10/chandramukhi.jpg)🤯😨
+- 📫 How to reach me: ...[My Linkedin](https://www.linkedin.com/in/raju-gujjalapati-470a88171)
+- ⚡ Fun fact: ...One thing I’m very afraid of this [Picture](https://chaibisket.com/wp-content/uploads/2015/10/chandramukhi.jpg)🤯😨
 
 
 #### Skills 🤖
