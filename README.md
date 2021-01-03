@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on ... OpenSource
 - 🤔 I’m looking for help with ...AWS
 - 📫 How to reach me: ...[My Linkedin](https://www.linkedin.com/in/raju-gujjalapati-470a88171)
-- ⚡ Fun fact: ...One thing I’m very afraid of is [this](https://chaibisket.com/wp-content/uploads/2015/10/chandramukhi.jpg)🤯😨
+- ⚡ Fun fact: ...One thing I’m very afraid of [this](https://chaibisket.com/wp-content/uploads/2015/10/chandramukhi.jpg)🤯😨
 
 
 #### Skills 🤖
