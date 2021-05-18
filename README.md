@@ -20,9 +20,9 @@
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
 <code><img height="48" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></code>
 <br><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajulearner&layout=compact&hide=html" alt="Raju" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajuGujjalapati&layout=compact&hide=html" alt="Raju" />
 <br><br>
 #### Stats 👨‍💻
-![Raju's github stats](https://github-readme-stats.vercel.app/api?username=Rajulearner&show_icons=true&theme=radical)
+![Raju's github stats](https://github-readme-stats.vercel.app/api?username=RajuGujjalapati&show_icons=true&theme=radical)
 
 <a href="https://www.linkedin.com/in/raju-gujjalapati-470a88171" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hamed-zitoun" height="30" width="30" /></a>
